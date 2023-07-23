@@ -1,2 +1,3 @@
 Khởi tạo
 main
+Hello - Thái det
