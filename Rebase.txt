@@ -1,3 +1,4 @@
 Khởi tạo
 main
 Hello - Thái det
+Hello - Nami det
